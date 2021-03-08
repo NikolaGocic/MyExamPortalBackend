@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://admin2:admin2@myexamportal.niuzh.mongodb.net/MyExamPortal?retryWrites=true&w=majority",
+    "jwt": "secret"
+}
